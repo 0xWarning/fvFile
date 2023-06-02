@@ -1,7 +1,38 @@
+# 🍺 fvFile bundled with Node Backend
+- Scroll down for more information
+
+
+## --------- fvFile -------------
+
 <p align="center">
-  <img width="248" height="248" src="https://raw.githubusercontent.com/0xWarning/Node-API-Backend/main/icon.png">
+  <img src="https://cdn.discordapp.com/attachments/930906899451359283/1113989676953514075/image.png">
 </p>
 
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/930906899451359283/1113989726546952252/image.png">
+</p>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/930906899451359283/1113989779927867472/image.png">
+</p>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/930906899451359283/1113990837332881469/image.png">
+</p>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/930906899451359283/1113991124210688060/image.png">
+</p>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/930906899451359283/1113991292968517743/image.png">
+</p>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/930906899451359283/1113991547017494538/image.png">
+</p>
+
+## --------- API -------------
 # 🍺 Node-API-Backend
 
 Using Express, Mongoose, Bcrypt, and Node.js, 
@@ -111,4 +142,8 @@ $ node app.js
 
 `http://SERVER:1337/api/secret/submit_dev_note (POST)`
 
+- 🖥️ Chat Log
 
+`http://SERVER:1337/api/secret/chat_log (GET)`
+
+`http://SERVER:1337/api/secret/submit_chat_log (POST)`
