@@ -1,5 +1,6 @@
 # 🍺 fvFile bundled with Node Backend
 - Scroll down for more information
+- This is very simple and was made as an example for a friend who has barely any coding knowledge it was just slapped together
 
 
 ## --------- fvFile -------------
